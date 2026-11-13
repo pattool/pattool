@@ -1,5 +1,8 @@
-## Hi there 👋
+## Hi there 👋, I am Patrick Pekel
 
+I'm from Belgium, and I'm a student smart contract developer in Solidity and Vyper.
+* 🌱 I’m currently learning smart contracts and security auditing.
+* 🔭 Love to work in DeFi.
 <!--
 **pattool/pattool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
