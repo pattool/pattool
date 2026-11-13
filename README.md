@@ -1,6 +1,6 @@
 ## Hi there 👋, I am Patrick Pekel
 
-I'm from Belgium, and I'm a smart contract developer in Solidity and Vyper.
+I'm from Belgium, and I'm a smart contract student in Solidity and Vyper.
 * 🌱 I’m currently learning smart contracts and security auditing.
 * 🔭 Love to work in DeFi.
 <!--
