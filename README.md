@@ -3,6 +3,16 @@
 I'm from Belgium, and I'm a smart contract student in Solidity and Vyper.
 * 🌱 I’m currently learning smart contracts and security auditing.
 * 🔭 Love to work in DeFi.
+
+### TECH STACK
+
+![Python](https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![macOS](https://img.shields.io/badge/mac%20os-%23000000.svg?style=for-the-badge&logo=macos&logoColor=F0F0F0&logoSize=auto)
+Git	![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
 <!--
 **pattool/pattool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
