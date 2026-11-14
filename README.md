@@ -2,7 +2,7 @@
 
 ### About Me
 
-I'm from Belgium, and I'm a smart contract student in Solidity and Vyper.
+I'm from Belgium, and I'm a smart contract developer student in Solidity and Vyper.
 * 🌱 I’m currently learning smart contracts and security auditing.
 * 🔭 Love to work in DeFi.
 
