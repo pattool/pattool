@@ -1,10 +1,12 @@
 ## Hi there 👋, I am Patrick Pekel
 
+### About Me
+
 I'm from Belgium, and I'm a smart contract student in Solidity and Vyper.
 * 🌱 I’m currently learning smart contracts and security auditing.
 * 🔭 Love to work in DeFi.
 
-### TECH STACK
+### Tech Stack
 
 ![Python](https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
