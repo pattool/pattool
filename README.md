@@ -4,7 +4,8 @@
 
 I'm from Belgium, and I'm a smart contract developer student working with Solidity and Vyper.
 * 🌱 I’m currently learning smart contracts and security auditing.
-* 🔭 Love to work in DeFi.
+* 🔭 I’m currently working on a DeFi protocol.
+* 🔭 I love working in DeFi.
 ---
 
 ### Tech Stack
