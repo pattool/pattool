@@ -20,5 +20,5 @@ I'm a smart contract developer from Belgium, working with Solidity and Vyper.
 
 ### Projects
 
-* [decentralized-stablecoin](https://github.com/pattool/your-repo-name): Decentralized stablecoin with a DSCEngine, written in Vyper with Moccasin and Hypothesis fuzz tests
+* [decentralized-stablecoin](https://github.com/pattool/Stablecoin-DSC.git): Decentralized stablecoin with a DSCEngine, written in Vyper with Moccasin and Hypothesis fuzz tests
 ---
