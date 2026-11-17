@@ -20,6 +20,5 @@ I'm a smart contract developer from Belgium, working with Solidity and Vyper.
 
 ### Projects
 
-* [foundry-NFT](https://github.com/pattool/foundry-NFT): Basic and on-chain mood NFTs built with Foundry
 * [decentralized-stablecoin](https://github.com/pattool/your-repo-name): Decentralized stablecoin with a DSCEngine, written in Vyper with Moccasin and Hypothesis fuzz tests
 ---
